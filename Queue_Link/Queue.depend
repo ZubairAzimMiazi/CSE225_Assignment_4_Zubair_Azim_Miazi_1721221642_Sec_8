@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1542700626 source:d:\university thing\courses\cse22.5 l (sas3.8_marufa ferdousi)\lab work\home work ll_queue\quetype.cpp
+	"QueType.h"
+	<iostream>
+
+1542699032 d:\university thing\courses\cse22.5 l (sas3.8_marufa ferdousi)\lab work\home work ll_queue\quetype.h
+	<string>
+
+1542700964 source:d:\university thing\courses\cse22.5 l (sas3.8_marufa ferdousi)\lab work\home work ll_queue\main.cpp
+	"QueType.cpp"
+	<iostream>
+
+1542700626 d:\university thing\courses\cse22.5 l (sas3.8_marufa ferdousi)\lab work\home work ll_queue\quetype.cpp
+	"QueType.h"
+	<iostream>
+
